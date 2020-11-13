@@ -1,0 +1,146 @@
+[   {
+    "id": 1,
+    "name": "Coco Bambu",
+    "cuisine": "Brasileiro",
+    "address": {
+        "street":"Padre Carapuceiro",
+        "number":"s/n",
+        "neighborhood":"Shopping Recife"
+    },
+    "price": 120
+    },
+    {
+    "id": 2,
+    "name": "Restaurante Leite",
+    "cuisine": "Internacional",
+    "address":  {
+        "street":"Praça Joaquim Nabuco",
+        "number":"147",
+        "neighborhood":"Graças"
+    },    
+    "price": 80
+    },
+    {
+    "id": 3,
+    "name": "Filipe Uma Casa Portuguesa",
+    "cuisine": "Português",
+    "address": {
+        "street":"Capitão Rebelinho",
+        "number":"527",
+        "neighborhood":"Boa Viagem"
+    },     
+    "price": 120
+    },
+    {
+    "id": 4,
+    "name": "Le Chef Bistrô",
+    "cuisine": "Francês",
+    "address":[{
+        "street":"Engenheiro Domingos Ferreira",
+        "number":"1097",
+        "neighborhood":"Boa Viagem"
+    }],     
+    "price": 80
+    },
+    {
+    "id": 4,
+    "name": "Ibis Kitchen Recife",
+    "cuisine": "Internacional",
+    "address": {
+        "street":"Engenheiro Domingos Ferreira",
+        "number":"683",
+        "neighborhood":"Boa Viagem"
+    },     
+    "price": 57
+    },
+    {
+    "id": 5,
+    "name": "Prima Deli Restaurante e Pizzaria",
+    "cuisine": "Italiano",
+    "address": {
+        "street":"Conselheiro Aguiar",
+        "number":"2217",
+        "neighborhood":"Boa Viagem"
+    },    
+    "price": 80
+    },
+    {
+    "id": 6,
+    "name": "Budhakan Cuisine",
+    "cuisine": "Indiano",
+    "address": {
+        "street":"do Atlântico",
+        "number":"147",
+        "neighborhood":"Boa Viagem"
+    },   
+    "price": 100
+    },
+    {
+    "id": 7,
+    "name": "Pobre Juan",
+    "cuisine": "Argentino",
+    "address": {
+        "street":"República do Líbano",
+        "number":"251",
+        "neighborhood":"Pina"
+    },   
+    "price": 130
+    },
+    {
+    "id": 8,
+    "name": "Haus Lajetop & Beergarden",
+    "cuisine": "Brasileiro",
+    "address": {
+        "street":"Herculano Bandeira",
+        "number":"513",
+        "neighborhood":"Galeria Joana D'Arc - Pina"
+    },    
+    "price": 50
+    },
+    {
+    "id": 9,
+    "name": "Bode do Nô",
+    "cuisine": "Brasileiro",
+    "address": {
+        "street":"Dr. João Guilherme Pontes Sobrinho",
+        "number":"245",
+        "neighborhood":"Boa Viagem"
+    },   
+    "price": 100
+    },
+    {
+    "id": 10,
+    "name": "TBA Premium Steak",
+    "cuisine": "Churrascaria",
+    "address": {
+        "street":"Padre Carapuceiro",
+        "number":"777",
+        "neighborhood":"Boa Viagem"
+    },   
+    "price": 75
+    },
+    {
+        "id": 12,
+        "name": "Castellus",
+        "cuisine": "Brasileira",
+        "address": [
+            {
+                "street": "Alameda Antonio Brennand",
+                "number": "s/n",
+                "neighborhood": "Várzea"
+            }
+        ],
+        "price": "50"
+    }
+]
+
+    
+
+
+
+
+
+
+
+
+   

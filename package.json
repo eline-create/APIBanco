@@ -1,0 +1,25 @@
+{
+  "name": "integrabanco",
+  "version": "1.0.0",
+  "description": "Integração com Banco de Dados no MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eline-create/integraBanco.git"
+  },
+  "author": "Eline Pimentel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eline-create/integraBanco/issues"
+  },
+  "homepage": "https://github.com/eline-create/integraBanco#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.13"
+  }
+}
