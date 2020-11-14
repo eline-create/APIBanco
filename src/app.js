@@ -6,7 +6,7 @@ const index = require("./routes/index");
 const rest = require("./routes/restRoute");
 
 mongoose.connect(
-  "mongodb+srv://ElineSPP:<password>@cluster0.fi7vb.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "mongodb+srv://ElineSPP:<password>@cluster0.fi7vb.mongodb.net/restaurantes?retryWrites=true&w=majority",
   {
     useNewUrlParser: true,
     useUnifiedTopology: true,
